@@ -1,2 +1,2 @@
 # AspectAdjuster
-Adjusts the camera's Viewport Rect to fit the screen resolution, producing letterboxing (black bars above and below) or pillarboxing (black bars on the left and right).
+スクリーン解像度に合わせるためにカメラのビューポート矩形（Viewport Rect）を調整し、レターボックス（上下に黒帯）またはピラーボックス（左右に黒帯）を生成する。
