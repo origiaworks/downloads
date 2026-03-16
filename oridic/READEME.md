@@ -1,4 +1,4 @@
-#ORIDIC (ORIGIAWORKS Dictionary) Ver 1.0
+# ORIDIC (ORIGIAWORKS Dictionary) Ver 1.0
 
 ##概要
 - 本ファイルは、Linux環境におけるUnity/C#ゲーム開発を効率化するために作成された、日本語入力（IME）用のユーザー辞書データです。
