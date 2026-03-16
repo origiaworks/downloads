@@ -1,0 +1,416 @@
+あじゃすとめんとれいやー	Adjustment Layer	名詞	編集用語
+らすたらいず	Rasterize	名詞	編集用語
+べくとるまきく	Vector Mask	名詞	編集用語
+くりっぴんぐますく	Clipping Mask	名詞	編集用語
+ぶれんどもーど	Blend Mode	名詞	編集用語
+じょうざん	Multiply	名詞	編集用語
+すくりーん	Screen	名詞	編集用語
+おーばーれい	Overlay	名詞	編集用語
+はーどらいと	Hard Light	名詞	編集用語
+そふとらいと	Soft Light	名詞	編集用語
+りにあらいと	Linear Light	名詞	編集用語
+びびっどらいと	Vivid Light	名詞	編集用語
+おおいやき	Dodge	名詞	編集用語
+やきこみ	Burn	名詞	編集用語
+ふぃるたー	Filter	名詞	編集用語
+がうしあんぶらー	Gaussian Blur	名詞	編集用語
+ぼかし	Blur	名詞	編集用語
+しゃーぷん	Sharpen	名詞	編集用語
+あんしゃーぷますく	Unsharp Mask	名詞	編集用語
+のいず	Noise	名詞	編集用語
+でぃざー	Dither	名詞	編集用語
+あそなじ	Aliasing	名詞	編集用語
+あんちえりあす	Anti-aliasing	名詞	編集用語
+ひすとぐらむ	Histogram	名詞	編集用語
+とーんかーぶ	Tone Curve	名詞	編集用語
+れべるほせい	Levels	名詞	編集用語
+からーばらんす	Color Balance	名詞	編集用語
+ほうちょう	Saturation	名詞	編集用語
+しきそう	Hue	名詞	編集用語
+めいど	Luminance	名詞	編集用語
+さいど	Saturation	名詞	編集用語
+びぶらんす	Vibrance	名詞	編集用語
+ほわいとばらんす	White Balance	名詞	編集用語
+からーてんぷらちゃー	Color Temperature	名詞	編集用語
+てぃんと	Tint	名詞	編集用語
+ぐらでーしょん	Gradient	名詞	編集用語
+すとろーく	Stroke	名詞	編集用語
+べべる	Bevel	名詞	編集用語
+えんぼす	Emboss	名詞	編集用語
+どろっぷしゃどう	Drop Shadow	名詞	編集用語
+いんなーしゃどう	Inner Shadow	名詞	編集用語
+あうたーぐろー	Outer Glow	名詞	編集用語
+いんなーぐろー	Inner Glow	名詞	編集用語
+ぱす	Path	名詞	編集用語
+あんかーぽいんと	Anchor Point	名詞	編集用語
+せぐめんと	Segment	名詞	編集用語
+べじえかーぶ	Bezier Curve	名詞	編集用語
+はんどる	Handle	名詞	編集用語
+ぺんつーる	Pen Tool	名詞	編集用語
+ぶらし	Brush	名詞	編集用語
+えあぶらし	Airbrush	名詞	編集用語
+すたんぷ	Clone Stamp	名詞	編集用語
+ぱっち	Patch	名詞	編集用語
+なげなつーる	Lasso Tool	名詞	編集用語
+まじっくわんど	Magic Wand	名詞	編集用語
+くろっぷ	Crop	名詞	編集用語
+あーとぼーど	Artboard	名詞	編集用語
+がんま	Gamma	名詞	編集用語
+たいぽぐらふぃ	Typography	名詞	編集用語
+かーにんぐ	Kerning	名詞	編集用語
+とらっきんぐ	Tracking	名詞	編集用語
+れでぃんぐ	Leading	名詞	編集用語
+べーすらいん	Baseline	名詞	編集用語
+ふぉんとふぁみりー	Font Family	名詞	編集用語
+さんせりふ	Sans Serif	名詞	編集用語
+せりふ	Serif	名詞	編集用語
+すらぶせりふ	Slab Serif	名詞	編集用語
+ものすぺーす	Monospace	名詞	編集用語
+すくりぷとふぉんと	Script Font	名詞	編集用語
+うぇいと	Weight	名詞	編集用語
+いたりっく	Italic	名詞	編集用語
+たいむらいん	Timeline	名詞	映像用語
+しーけんす	Sequence	名詞	映像用語
+くりっぷ	Clip	名詞	映像用語
+とらっく	Track	名詞	映像用語
+かっと	Cut	名詞	映像用語
+とりみんぐ	Trimming	名詞	映像用語
+りっぷる	Ripple	名詞	映像用語
+ろーりんぐ	Rolling	名詞	映像用語
+すりっぷ	Slip	名詞	映像用語
+すらいど	Slide	名詞	映像用語
+れいざー	Razor	名詞	映像用語
+ねすと	Nesting	名詞	映像用語
+こんぽじしょん	Composition	名詞	映像用語
+ぷりこんぽーず	Pre-compose	名詞	映像用語
+きーふれーむ	Keyframe	名詞	映像用語
+いーじんぐ	Easing	名詞	映像用語
+いんたーぽれーしょん	Interpolation	名詞	映像用語
+りにあ	Linear	名詞	映像用語
+べじえ	Bezier	名詞	映像用語
+ほーるど	Hold	名詞	映像用語
+いーじーいーず	Easy Ease	名詞	映像用語
+いーずいん	Ease In	名詞	映像用語
+いーずあうと	Ease Out	名詞	映像用語
+ぐらふえでぃたー	Graph Editor	名詞	映像用語
+もーしょんぱす	Motion Path	名詞	映像用語
+えくすぷれっしょん	Expression	名詞	映像用語
+ぱれんてぃんぐ	Parenting	名詞	映像用語
+ぬるおぶじぇくと	Null Object	名詞	映像用語
+ちょうせいれいやー	Adjustment Layer	名詞	映像用語
+へいめん	Solid	名詞	映像用語
+ますく	Masking	名詞	映像用語
+ろとすこーぷ	Rotoscoping	名詞	映像用語
+とらっきんぐ	Tracking	名詞	映像用語
+まっちむーぶ	Matchmove	名詞	映像用語
+すたびらいざー	Stabilizer	名詞	映像用語
+わーぷすたびらいざー	Warp Stabilizer	名詞	映像用語
+くろまきー	Chroma Key	名詞	映像用語
+るまきー	Luma Key	名詞	映像用語
+からーきー	Color Key	名詞	映像用語
+がびじまますく	Garbage Mask	名詞	映像用語
+ふぇざー	Feather	名詞	映像用語
+えっじ	Edge	名詞	映像用語
+もーしょんぶらー	Motion Blur	名詞	映像用語
+しゃったーあんぐる	Shutter Angle	名詞	映像用語
+しゃったーすぴーど	Shutter Speed	名詞	映像用語
+ふれーむれーと	Frame Rate	名詞	映像用語
+たいむこーど	Timecode	名詞	映像用語
+ぷろぐれっしぶ	Progressive	名詞	映像用語
+いんたーれーす	Interlaced	名詞	映像用語
+ぷるだうん	Pulldown	名詞	映像用語
+あすぺくとひ	Aspect Ratio	名詞	映像用語
+あなもるふぃっく	Anamorphic	名詞	映像用語
+れたーぼっくす	Letterbox	名詞	映像用語
+ぴらーぼっくす	Pillarbox	名詞	映像用語
+せーふえりあ	Safe Area	名詞	映像用語
+かいぞうど	Resolution	名詞	映像用語
+ふろはーでぃー	Full HD	名詞	映像用語
+よんけー	4K	名詞	映像用語
+はちけー	8K	名詞	映像用語
+びっとれーと	Bitrate	名詞	映像用語
+こーでっく	Codec	名詞	映像用語
+えんこーど	Encode	名詞	映像用語
+でこーど	Decode	名詞	映像用語
+とらんすこーど	Transcode	名詞	映像用語
+ぷろれす	ProRes	名詞	映像用語
+でぃーえぬえっくす	DNxHR	名詞	映像用語
+えいちにーろくよん	H.264	名詞	映像用語
+えいちにーろくご	H.265	名詞	映像用語
+えむぴーよん	MP4	名詞	映像用語
+えむおーゔい	MOV	名詞	映像用語
+えーぶいあい	AVI	名詞	映像用語
+えむけーぶい	MKV	名詞	映像用語
+こんてな	Container	名詞	映像用語
+めたでーた	Metadata	名詞	映像用語
+ぷろきし	Proxy	名詞	映像用語
+きゃっしゅ	Cache	名詞	映像用語
+れんだーきゅー	Render Queue	名詞	映像用語
+ぷりびゅー	Preview	名詞	映像用語
+からーぐれーでぃんぐ	Color Grading	名詞	映像用語
+からーこれくしょん	Color Correction	名詞	映像用語
+からーすぺーす	Color Space	名詞	映像用語
+がもっと	Gamut	名詞	映像用語
+からーほいーる	Color Wheels	名詞	映像用語
+からーかーぶ	Color Curves	名詞	映像用語
+らっと	LUT	名詞	映像用語
+ろぐ	Log	名詞	映像用語
+りにあ	Linear	名詞	映像用語
+りっくぜろきゅう	Rec.709	名詞	映像用語
+りっくにーまるにまる	Rec.2020	名詞	映像用語
+えいちでぃーあーる	HDR	名詞	映像用語
+えすでぃーあーる	SDR	名詞	映像用語
+わいぶいゆー	YUV	名詞	映像用語
+くろまさぶりんぐ	Chroma Subsampling	名詞	映像用語
+びっとしんど	Bit Depth	名詞	映像用語
+すこーぷ	Scopes	名詞	映像用語
+うぇーぶふぉーむ	Waveform	名詞	映像用語
+べくとるすこーぷ	Vectorscope	名詞	映像用語
+ぱれーど	Parade	名詞	映像用語
+りふと	Lift	名詞	映像用語
+がんま	Gamma	名詞	映像用語
+げいん	Gain	名詞	映像用語
+おふせっと	Offset	名詞	映像用語
+てぃんじ	Tinge	名詞	映像用語
+ぶるーむ	Bloom	名詞	映像用語
+ぐろー	Glow	名詞	映像用語
+ふれあ	Flare	名詞	映像用語
+れんずふれあ	Lens Flare	名詞	映像用語
+びねっと	Vignette	名詞	映像用語
+ぐれいん	Grain	名詞	映像用語
+すたてぃっく	Static	名詞	映像用語
+でぃすとーしょん	Distortion	名詞	映像用語
+あばれーしょん	Aberration	名詞	映像用語
+しゅうさ	Aberration	名詞	映像用語
+おーばーれい	Overlay	名詞	映像用語
+てくすちゃ	Texture	名詞	映像用語
+ぱーてぃくる	Particle	名詞	映像用語
+えみったー	Emitter	名詞	映像用語
+ふぃーるど	Field	名詞	映像用語
+ふれーむ	Frame	名詞	映像用語
+じぇーぺぐ	JPEG	名詞	ファイル形式
+ぴーえぬじー	PNG	名詞	ファイル形式
+じふ	GIF	名詞	ファイル形式
+てぃふ	TIFF	名詞	ファイル形式
+たるが	Targa	名詞	ファイル形式
+いーえっくすあーる	EXR	名詞	ファイル形式
+ぴーえすでぃー	PSD	名詞	ファイル形式
+えーあい	AI	名詞	ファイル形式
+えすぶいじー	SVG	名詞	ファイル形式
+いーぴーえす	EPS	名詞	ファイル形式
+ぴーでぃーえふ	PDF	名詞	ファイル形式
+ろー	RAW	名詞	ファイル形式
+でぃーえぬじー	DNG	名詞	ファイル形式
+へいふ	HEIF	名詞	ファイル形式
+うえぶぴー	WebP	名詞	ファイル形式
+るーまとらっく	Luma Track	名詞	映像用語
+あるふぁちゃんねる	Alpha Channel	名詞	映像用語
+とうめいど	Opacity	名詞	映像用語
+ぬり	Fill	名詞	映像用語
+せん	Stroke	名詞	映像用語
+ぱすふぁいんだー	Pathfinder	名詞	編集用語
+しぇいぷ	Shape	名詞	編集用語
+らいぶぺいんと	Live Paint	名詞	編集用語
+めっしゅ	Mesh	名詞	編集用語
+えんべろーぷ	Envelope	名詞	編集用語
+ぶれんど	Blend	名詞	編集用語
+しんぼる	Symbol	名詞	編集用語
+ぱたーん	Pattern	名詞	編集用語
+すうぉっち	Swatch	名詞	編集用語
+がいど	Guide	名詞	編集用語
+すなっぷ	Snap	名詞	編集用語
+じそく	Magnetic	名詞	編集用語
+てんぷれーと	Template	名詞	編集用語
+ぷりせっと	Preset	名詞	編集用語
+あくしょん	Action	名詞	編集用語
+ばっち	Batch	名詞	編集用語
+すくりぷと	Scripting	名詞	編集用語
+ぷらぐいん	Plugin	名詞	編集用語
+えくすてんしょん	Extension	名詞	編集用語
+わーくすぺーす	Workspace	名詞	編集用語
+ひすとりー	History	名詞	編集用語
+すなっぷしょっと	Snapshot	名詞	編集用語
+すまーとおぶじぇくと	Smart Object	名詞	編集用語
+すまーとふぃるたー	Smart Filter	名詞	編集用語
+あーてぃふぁくと	Artifact	名詞	映像用語
+ぶろっきんぐ	Blocking	名詞	映像用語
+ばんでぃんぐ	Banding	名詞	映像用語
+えいあいうぇあ	AI Upscaling	名詞	映像用語
+のいずりだくしょん	Noise Reduction	名詞	映像用語
+しゃーぷねす	Sharpness	名詞	映像用語
+でぃてーる	Detail	名詞	映像用語
+くりありてぃ	Clarity	名詞	映像用語
+てくすちゃ	Texture	名詞	映像用語
+ふぇいすりふぇいん	Face Refinement	名詞	映像用語
+すきんみらー	Skin Mirror	名詞	映像用語
+びじゅあるえふぇくと	VFX	名詞	映像用語
+しーじーあい	CGI	名詞	映像用語
+りあらしゅーてぃんぐ	Live Action	名詞	映像用語
+ぷれびず	Pre-viz	名詞	映像用語
+ぽすとびず	Post-viz	名詞	映像用語
+すとりーぼーど	Storyboard	名詞	映像用語
+あにめりっくす	Animatics	名詞	映像用語
+だれくと	Directing	名詞	映像用語
+えでぃてぃんぐ	Editing	名詞	映像用語
+みきしんぐ	Mixing	名詞	映像用語
+ますたりんぐ	Mastering	名詞	映像用語
+さらんど	Surround	名詞	映像用語
+すてれお	Stereo	名詞	映像用語
+ものらる	Mono	名詞	映像用語
+おーでぃおとらっく	Audio Track	名詞	映像用語
+えふぇくつ	Effects	名詞	映像用語
+りばーぶ	Reverb	名詞	映像用語
+でぃれい	Delay	名詞	映像用語
+えこー	Echo	名詞	映像用語
+いーきゅー	EQ	名詞	映像用語
+こんぷれっさー	Compressor	名詞	映像用語
+りみったー	Limiter	名詞	映像用語
+げーと	Gate	名詞	映像用語
+のいずげーと	Noise Gate	名詞	映像用語
+のいずりだくしょん	Noise Reduction	名詞	映像用語
+ぴっち	Pitch	名詞	映像用語
+ふぉるまんと	Formant	名詞	映像用語
+ぼいすちぇんじゃー	Voice Changer	名詞	映像用語
+ならしょん	Narration	名詞	映像用語
+ぼいすおーばー	Voice Over	名詞	映像用語
+じまく	Subtitle	名詞	映像用語
+てろっぷ	Captions	名詞	映像用語
+ろーわーさーど	Lower Third	名詞	映像用語
+たいとる	Title	名詞	映像用語
+くりーでぃっと	Credit	名詞	映像用語
+えんでぃんぐ	Ending	名詞	映像用語
+いんとろ	Intro	名詞	映像用語
+あうとろ	Outro	名詞	映像用語
+とらんじしょん	Transition	名詞	映像用語
+でぃぞるぶ	Dissolve	名詞	映像用語
+ふぇーど	Fade	名詞	映像用語
+わいぷ	Wipe	名詞	映像用語
+すらいど	Slide	名詞	映像用語
+ずーむ	Zoom	名詞	映像用語
+ぱん	Pan	名詞	映像用語
+ちると	Tilt	名詞	映像用語
+どりー	Dolly	名詞	映像用語
+とらっく	Track	名詞	映像用語
+くれーん	Crane	名詞	映像用語
+じんぱる	Gimbal	名詞	映像用語
+すてでぃかむ	Steadicam	名詞	映像用語
+はんどへるど	Handheld	名詞	映像用語
+ふぃっくす	Static	名詞	映像用語
+ろんぐしょっと	Long Shot	名詞	映像用語
+ふぉーるしょっと	Full Shot	名詞	映像用語
+みでぃあむしょっと	Medium Shot	名詞	映像用語
+あっぷ	Close Up	名詞	映像用語
+えくすとりーむあっぷ	Extreme Close Up	名詞	映像用語
+わいどえんじゅ	Wide Angle	名詞	映像用語
+てれふぉと	Telephoto	名詞	映像用語
+まくろ	Macro	名詞	映像用語
+ふぃっしゅあい	Fish Eye	名詞	映像用語
+でぷすおぶふぃーるど	Depth of Field	名詞	映像用語
+ふぉーかす	Focus	名詞	映像用語
+おーとふぉーかす	Auto Focus	名詞	映像用語
+まにゅあるふぉーかす	Manual Focus	名詞	映像用語
+ふぉーかすぷる	Focus Pull	名詞	映像用語
+らっくふぉーかす	Rack Focus	名詞	映像用語
+えふち	F-Stop	名詞	映像用語
+あぱーちゃー	Aperture	名詞	映像用語
+あいえすおー	ISO	名詞	映像用語
+えくすぽーじゃー	Exposure	名詞	映像用語
+おーばーえくすぽーじゃー	Overexposure	名詞	映像用語
+あんだーえくすぽーじゃー	Underexposure	名詞	映像用語
+だいなみっくりんじ	Dynamic Range	名詞	映像用語
+ぜぶら	Zebra	名詞	映像用語
+ぴーきんぐ	Peaking	名詞	映像用語
+ふぉーすすけーる	False Color	名詞	映像用語
+るましなんす	Luminance	名詞	映像用語
+くろみなんす	Chrominance	名詞	映像用語
+さんぷりんぐ	Sampling	名詞	映像用語
+くぉんたいず	Quantize	名詞	映像用語
+にんしょう	Authentication	名詞	映像用語
+うぉーたーまーく	Watermark	名詞	映像用語
+ちょらくりつ	Copyright	名詞	映像用語
+らいせんす	License	名詞	映像用語
+ろいやるてぃふりー	Royalty Free	名詞	映像用語
+くりえいてぃぶこもんず	Creative Commons	名詞	映像用語
+ぱぶりっくどめいん	Public Domain	名詞	映像用語
+あせっと	Asset	名詞	映像用語
+すとっくふぉてーじ	Stock Footage	名詞	映像用語
+ふぉてーじ	Footage	名詞	映像用語
+らいぶらり	Library	名詞	映像用語
+あーかいぶ	Archive	名詞	映像用語
+ばっくあっぷ	Backup	名詞	映像用語
+すとれーじ	Storage	名詞	映像用語
+ねっとわーく	Network	名詞	映像用語
+くらうど	Cloud	名詞	映像用語
+さーばー	Server	名詞	映像用語
+れんだーふぁーむ	Render Farm	名詞	映像用語
+わーくふろー	Workflow	名詞	映像用語
+ぱいぷらいん	Pipeline	名詞	映像用語
+じょぶ	Job	名詞	映像用語
+たすく	Task	名詞	映像用語
+すけじゅーる	Schedule	名詞	映像用語
+であらいん	Deadline	名詞	映像用語
+りびゅー	Review	名詞	映像用語
+ふぃーどばっく	Feedback	名詞	映像用語
+あぷるーばる	Approval	名詞	映像用語
+ばーじょん	Version	名詞	映像用語
+りはびり	Rehab	名詞	映像用語
+りてーく	Retake	名詞	映像用語
+ふぁいなる	Final	名詞	映像用語
+ますたー	Master	名詞	映像用語
+でりばりー	Delivery	名詞	映像用語
+ふぁいるめい	Filename	名詞	映像用語
+ねーみんぐ	Naming	名詞	映像用語
+こんべんしょん	Convention	名詞	映像用語
+めまてりある	Material	名詞	映像用語
+ぷろじぇくと	Project	名詞	映像用語
+ふぉるだ	Folder	名詞	映像用語
+でぃれくとり	Directory	名詞	映像用語
+ぱす	Path	名詞	映像用語
+りんく	Link	名詞	映像用語
+えいあいうぇあ	Upscaling	名詞	映像用語
+ぶれーど	Blade	名詞	映像用語
+とりむ	Trim	名詞	映像用語
+りっぷる	Ripple	名詞	映像用語
+ますたーくりっぷ	Master Clip	名詞	映像用語
+さぶくりっぷ	Sub Clip	名詞	映像用語
+そーす	Source	名詞	映像用語
+ぷろぐらむ	Program	名詞	映像用語
+いんてりあ	Interior	名詞	映像用語
+えくすてりあ	Exterior	名詞	映像用語
+でい	Day	名詞	映像用語
+ないと	Night	名詞	映像用語
+いんてりあでい	INT. DAY	名詞	映像用語
+えくすてりあないと	EXT. NIGHT	名詞	映像用語
+しーん	Scene	名詞	映像用語
+しょっと	Shot	名詞	映像用語
+ていく	Take	名詞	映像用語
+びーろーる	B-roll	名詞	映像用語
+えーろーる	A-roll	名詞	映像用語
+ぼいす	Voice	名詞	映像用語
+みゅーじっく	Music	名詞	映像用語
+えすいー	SE	名詞	映像用語
+あんびえんす	Ambience	名詞	映像用語
+ふぉーりー	Foley	名詞	映像用語
+るーむとーん	Room Tone	名詞	映像用語
+りばーぶ	Reverb	名詞	映像用語
+えこー	Echo	名詞	映像用語
+ぱん	Pan	名詞	映像用語
+すてれお	Stereo	名詞	映像用語
+さらんど	Surround	名詞	映像用語
+もじ	Font	名詞	映像用語
+けーにんぐ	Kerning	名詞	映像用語
+とらっきんぐ	Tracking	名詞	映像用語
+れでぃんぐ	Leading	名詞	映像用語
+べーすらいん	Baseline	名詞	映像用語
+あらいんめんと	Alignment	名詞	映像用語
+じゃすてぃふぃけーしょん	Justification	名詞	映像用語
+はいいれ	High-Res	名詞	映像用語
+ろうれ	Low-Res	名詞	映像用語
+あんでゅ	Undo	名詞	映像用語
+りどぅ	Redo	名詞	映像用語
+せーぶ	Save	名詞	映像用語
+えくすぽーと	Export	名詞	映像用語
+れんだー	Render	名詞	映像用語
+きゅー	Queue	名詞	映像用語
+びるど	Build	名詞	映像用語
+ぱっけーじ	Package	名詞	映像用語

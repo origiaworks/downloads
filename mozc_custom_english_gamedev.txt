@@ -1,0 +1,777 @@
+ばーてぃかるすらいす	Vertical Slice	名詞	ゲーム制作・経営
+ぷるーふおぶこんせぷと	Proof of Concept	名詞	ゲーム制作・経営
+まいるすとーん	Milestone	名詞	ゲーム制作・経営
+あるふぁばん	Alpha	名詞	ゲーム制作・経営
+べーたばん	Beta	名詞	ゲーム制作・経営
+ますたーあっぷ	Master Up	名詞	ゲーム制作・経営
+ごーるどあっぷ	Gold	名詞	ゲーム制作・経営
+あーりーあくせす	Early Access	名詞	ゲーム制作・経営
+くろーずどべーた	Closed Beta	名詞	ゲーム制作・経営
+おーぷんべーた	Open Beta	名詞	ゲーム制作・経営
+そふとろーんち	Soft Launch	名詞	ゲーム制作・経営
+はーどろーんち	Hard Launch	名詞	ゲーム制作・経営
+あぷで	Update	名詞	ゲーム制作・経営
+ろーどまっぷ	Roadmap	名詞	ゲーム制作・経営
+ぽーとふぉりお	Portfolio	名詞	ゲーム制作・経営
+ぱぶりっしゃー	Publisher	名詞	ゲーム制作・経営
+でべろっぱー	Developer	名詞	ゲーム制作・経営
+ふぁーすとぱーてぃ	First Party	名詞	ゲーム制作・経営
+さーどぱーてぃ	Third Party	名詞	ゲーム制作・経営
+いんでぃー	Indie	名詞	ゲーム制作・経営
+あうとそーしんぐ	Outsourcing	名詞	ゲーム制作・経営
+あせっとすとあ	Asset Store	名詞	ゲーム制作・経営
+まーけっとぷれいす	Marketplace	名詞	ゲーム制作・経営
+ろからいぜーしょん	Localization	名詞	ゲーム制作・経営
+かるちゃらいぜーしょん	Culturization	名詞	ゲーム制作・経営
+まねたいぜーしょん	Monetization	名詞	ゲーム制作・経営
+ふりーとぅぷれい	Free to Play	名詞	ゲーム制作・経営
+ぺいとぅうぃん	Pay to Win	名詞	ゲーム制作・経営
+あどまねたいず	Ad Monetization	名詞	ゲーム制作・経営
+いんあぷぱーちゃす	In-app Purchase	名詞	ゲーム制作・経営
+さぶすくりぷしょん	Subscription	名詞	ゲーム制作・経営
+しーずんぱす	Season Pass	名詞	ゲーム制作・経営
+ばとるぱす	Battle Pass	名詞	ゲーム制作・経営
+るーとぼっくす	Loot Box	名詞	ゲーム制作・経営
+がちゃ	Gacha	名詞	ゲーム制作・経営
+りてんしょん	Retention	名詞	ゲーム制作・経営
+ちゃーんれーと	Churn Rate	名詞	ゲーム制作・経営
+こんばーじょん	Conversion	名詞	ゲーム制作・経営
+あーぷ	ARPU	名詞	ゲーム制作・経営
+あーぷぱう	ARPPU	名詞	ゲーム制作・経営
+えるてぃーぶい	LTV	名詞	ゲーム制作・経営
+でぃーえーゆー	DAU	名詞	ゲーム制作・経営
+えむえーゆー	MAU	名詞	ゲーム制作・経営
+しーぴーあい	CPI	名詞	ゲーム制作・経営
+けーぴーあい	KPI	名詞	ゲーム制作・経営
+ろあす	ROAS	名詞	ゲーム制作・経営
+こあるーぷ	Core Loop	名詞	ゲーム設計
+めたげーむ	Metagame	名詞	ゲーム設計
+ぷろぐれっしょん	Progression	名詞	ゲーム設計
+げーむばらんす	Game Balance	名詞	ゲーム設計
+りわーど	Reward	名詞	ゲーム設計
+りすくあんどりたーん	Risk and Return	名詞	ゲーム設計
+ふらふらちぇっく	Frustration	名詞	ゲーム設計
+おんぼーでぃんぐ	Onboarding	名詞	ゲーム設計
+ちゅうとりある	Tutorial	名詞	ゲーム設計
+じぇらー	Genre	名詞	ゲーム設計
+しーぴーゆー	CPU	名詞	ゲーム設計
+えぬぴーしー	NPC	名詞	ゲーム設計
+えーあい	AI	名詞	ゲーム設計
+びへいびあつりー	Behavior Tree	名詞	ゲーム設計
+すてーとましん	State Machine	名詞	ゲーム設計
+ぱすふぁいんでぃんぐ	Pathfinding	名詞	ゲーム設計
+なびめっしゅ	NavMesh	名詞	ゲーム設計
+うぇいぽいんと	Waypoint	名詞	ゲーム設計
+ひっとすとっぷ	Hitstop	名詞	ゲーム設計
+ひっとぼっくす	Hitbox	名詞	ゲーム設計
+はーとぼっくす	Hurtbox	名詞	ゲーム設計
+ふれーむでーた	Frame Data	名詞	ゲーム設計
+こまんどいんぷっと	Command Input	名詞	ゲーム設計
+くーるだうん	Cooldown	名詞	ゲーム設計
+いーじんぐ	Easing	名詞	ゲーム設計
+じゅーしー	Juicy	名詞	ゲーム設計
+げーみふぃけーしょん	Gamification	名詞	ゲーム設計
+るーどならてぃぶ	Ludonarrative	名詞	ゲーム設計
+いあーめーしょん	Immersion	名詞	ゲーム設計
+だいじぇてぃっく	Diegetic	名詞	ゲーム設計
+ふぃーどばっくるーぷ	Feedback Loop	名詞	ゲーム設計
+えこにみー	Economy	名詞	ゲーム設計
+いんふれーしょん	Inflation	名詞	ゲーム設計
+でふれーしょん	Deflation	名詞	ゲーム設計
+ぐれーぼっくしんぐ	Grayboxing	名詞	レベルデザイン
+ほわいとぼっくしんぐ	Whiteboxing	名詞	レベルデザイン
+ぶろっきんぐ	Blocking	名詞	レベルデザイン
+らんどまーく	Landmark	名詞	レベルデザイン
+さいとらいん	Sightline	名詞	レベルデザイン
+ちょーくぽいんと	Chokepoint	名詞	レベルデザイン
+ゔぁんてーじぽいんと	Vantage Point	名詞	レベルデザイン
+ばーてぃかりてぃ	Verticality	名詞	レベルデザイン
+ふぉろーざりーだー	Follow the Leader	名詞	レベルデザイン
+うぇいふぁいんでぃんぐ	Wayfinding	名詞	レベルデザイン
+もじゅらーあせっと	Modular Asset	名詞	レベルデザイン
+きっとばっしゅ	Kitbash	名詞	レベルデザイン
+でかーる	Decal	名詞	レベルデザイン
+ぷろっぷ	Prop	名詞	レベルデザイン
+すかいくらすたー	Skybox	名詞	レベルデザイン
+ふぉぐ	Fog	名詞	レベルデザイン
+ゔぉりゅーめとりっく	Volumetric	名詞	レベルデザイン
+らいとべいく	Light Bake	名詞	レベルデザイン
+りあるたいむらいと	Real-time Light	名詞	レベルデザイン
+じーあい	Global Illumination	名詞	レベルデザイン
+あんばいあんとｵｸﾙｰｼﾞｮﾝ	Ambient Occlusion	名詞	レベルデザイン
+どろーこーる	Draw Call	名詞	最適化
+ばっちんぐ	Batching	名詞	最適化
+おくるーじょんかりんぐ	Occlusion Culling	名詞	最適化
+ふらすたむかりんぐ	Frustum Culling	名詞	最適化
+えるおーでぃー	LOD	名詞	最適化
+あすぺくとひ	Aspect Ratio	名詞	最適化
+てくすちゃあとりあす	Texture Atlas	名詞	最適化
+みっぷまっぷ	Mipmap	名詞	最適化
+めもりりーく	Memory Leak	名詞	最適化
+がーべーじこれくしょん	Garbage Collection	名詞	最適化
+しゃーだーぐらふ	Shader Graph	名詞	テクニカルアート
+びじゅあるえふぇくとｸﾞﾗﾌ	VFX Graph	名詞	テクニカルアート
+ぽすとぷろせす	Post Processing	名詞	テクニカルアート
+ぶるーむ	Bloom	名詞	テクニカルアート
+びねっと	Vignette	名詞	テクニカルアート
+ひーとでぃすとーしょん	Heat Distortion	名詞	テクニカルアート
+ぱーてぃくる	Particle	名詞	テクニカルアート
+すぷらいとあにめーしょん	Sprite Animation	名詞	テクニカルアート
+ぼーん	Bone	名詞	リギング
+じょいんと	Joint	名詞	リギング
+すきにんぐ	Skinning	名詞	リギング
+うえいとぺいんと	Weight Painting	名詞	リギング
+あいけー	Inverse Kinematics	名詞	リギング
+えふけー	Forward Kinematics	名詞	リギング
+りたーげてぃんぐ	Retargeting	名詞	リギング
+るーともーしょん	Root Motion	名詞	リギング
+ぶれんどしぇいぷ	Blend Shape	名詞	リギング
+もーふたーげっと	Morph Target	名詞	リギング
+もーしょんきゃぷちゃ	Motion Capture	名詞	リギング
+もきゃっぷ	Mocap	名詞	リギング
+ふぇいしゃるきゃぷちゃ	Facial Capture	名詞	リギング
+あにめーしょんぶれんど	Animation Blend	名詞	リギング
+あにめーしょんれいやー	Animation Layer	名詞	リギング
+あにめーしょんかーぶ	Animation Curve	名詞	リギング
+みどるうぇあ	Middleware	名詞	サウンド
+わいず	Wwise	名詞	サウンド
+えふもっど	FMOD	名詞	サウンド
+しーあーるあい	CRIWARE	名詞	サウンド
+だう	DAW	名詞	サウンド
+さぷりんぐれーと	Sample Rate	名詞	サウンド
+びっとれーと	Bitrate	名詞	サウンド
+ばっふぁさいず	Buffer Size	名詞	サウンド
+れいたんしー	Latency	名詞	サウンド
+わんしょっと	One-shot	名詞	サウンド
+るーぷさうんど	Loop Sound	名詞	サウンド
+あんびえんす	Ambience	名詞	サウンド
+ふぉーりー	Foley	名詞	サウンド
+あてにゅえーしょん	Attenuation	名詞	サウンド
+すぺーしゃらいぜーしょん	Spatialization	名詞	サウンド
+どっぷらーえふぇくと	Doppler Effect	名詞	サウンド
+おくるーじょん	Occlusion	名詞	サウンド
+おぶすとらくしょん	Obstruction	名詞	サウンド
+りばーぶぞーん	Reverb Zone	名詞	サウンド
+えすいー	Sound Effect	名詞	サウンド
+びーじーえむ	BGM	名詞	サウンド
+おーでぃおみきさー	Audio Mixer	名詞	サウンド
+すなっぷしょっと	Snapshot	名詞	サウンド
+ぼいすおーばー	Voice Over	名詞	サウンド
+りっぷしんく	Lip Sync	名詞	サウンド
+ろーからいず	Localize	名詞	QA・デバッグ
+でばっぐ	Debug	名詞	QA・デバッグ
+ばぐとらっかー	Bug Tracker	名詞	QA・デバッグ
+じーら	Jira	名詞	QA・デバッグ
+れっどまいん	Redmine	名詞	QA・デバッグ
+ばぐれぽーと	Bug Report	名詞	QA・デバッグ
+ぷらいおりてぃ	Priority	名詞	QA・デバッグ
+せびありてぃ	Severity	名詞	QA・デバッグ
+さいげんせい	Reproducibility	名詞	QA・デバッグ
+りぐれっしょんてすと	Regression Test	名詞	QA・デバッグ
+すもーくてすと	Smoke Test	名詞	QA・デバッグ
+すとれすてすと	Stress Test	名詞	QA・デバッグ
+ふぁじんぐ	Fuzzing	名詞	QA・デバッグ
+こんぷらいあんす	Compliance	名詞	QA・デバッグ
+さーてぃふぃけーしょん	Certification	名詞	QA・デバッグ
+ふりーず	Freeze	名詞	QA・デバッグ
+くらっしゅ	Crash	名詞	QA・デバッグ
+はんぐ	Hang	名詞	QA・デバッグ
+めもりりーく	Memory Leak	名詞	QA・デバッグ
+てぃありんぐ	Tearing	名詞	QA・デバッグ
+すたりんぐ	Stuttering	名詞	QA・デバッグ
+じったー	Jitter	名詞	QA・デバッグ
+ぱけり	Packet Loss	名詞	QA・デバッグ
+ぴんぐ	Ping	名詞	QA・デバッグ
+ちーと	Cheat	名詞	QA・デバッグ
+えんちーと	Anti-Cheat	名詞	QA・デバッグ
+どすあだっく	DDoS Attack	名詞	QA・デバッグ
+そーすこんとろーる	Source Control	名詞	制作・運用
+ぎっと	Git	名詞	制作・運用
+ぱーふぉーす	Perforce	名詞	制作・運用
+えすぶいえぬ	SVN	名詞	制作・運用
+ぷらすてぃっくえすぶいえぬ	Plastic SCM	名詞	制作・運用
+あーてぃふぁくと	Artifact	名詞	制作・運用
+しーあいしーでぃー	CI/CD	名詞	制作・運用
+びるどぱいぷらいん	Build Pipeline	名詞	制作・運用
+じぇんきんす	Jenkins	名詞	制作・運用
+ぎっとはぶあくしょん	GitHub Actions	名詞	制作・運用
+どっかー	Docker	名詞	制作・運用
+くーばねてぃす	Kubernetes	名詞	制作・運用
+でゔおぷす	DevOps	名詞	制作・運用
+らいぶおぷす	LiveOps	名詞	制作・運用
+こみゅにてぃまねじめんと	Community Management	名詞	制作・運用
+もでれーしょん	Moderation	名詞	制作・運用
+いんふるえんさー	Influencer	名詞	制作・運用
+すとりーまー	Streamer	名詞	制作・運用
+えんげーじめんと	Engagement	名詞	制作・運用
+ふぁんだむ	Fandom	名詞	制作・運用
+ゆーじーしー	UGC	名詞	制作・運用
+もっど	Mod	名詞	制作・運用
+えしっくす	Ethics	名詞	制作・運用
+れいてぃんぐ	Rating	名詞	制作・運用
+せろ	CERO	名詞	制作・運用
+えすあーるびー	ESRB	名詞	制作・運用
+ぺぎ	PEGI	名詞	制作・運用
+じーでぃーぴーあーる	GDPR	名詞	制作・運用
+ぷらいばしーぽりしー	Privacy Policy	名詞	制作・運用
+たーむずおぶさーびす	Terms of Service	名詞	制作・運用
+いーうら	EULA	名詞	制作・運用
+いんてれくちゅあるぷろぱてぃ	Intellectual Property	名詞	制作・運用
+あいぴー	IP	名詞	制作・運用
+こぴらいと	Copyright	名詞	制作・運用
+とれーどまーく	Trademark	名詞	制作・運用
+えぬでぃーえー	NDA	名詞	制作・運用
+ろいやるてぃ	Royalty	名詞	制作・運用
+れべにゅーしぇあ	Revenue Share	名詞	制作・運用
+ぱーる	PAL	名詞	制作・運用
+えぬてぃーえすしー	NTSC	名詞	制作・運用
+あーるてぃーえっくす	RTX	名詞	制作・運用
+でぃーえるえすえす	DLSS	名詞	制作・運用
+えふえすあーる	FSR	名詞	制作・運用
+ぜんこあ	Zen Core	名詞	制作・運用
+あーるでぃーえぬえー	RDNA	名詞	制作・運用
+てらふろっぷす	TFLOPS	名詞	制作・運用
+えすえすでぃー	SSD	名詞	制作・運用
+えぬぶいえむいー	NVMe	名詞	制作・運用
+はぷてぃくす	Haptics	名詞	制作・運用
+あだぷてぃぶとりがー	Adaptive Trigger	名詞	制作・運用
+れいとれーしんぐ	Ray Tracing	名詞	制作・運用
+ぱすとれーしんぐ	Path Tracing	名詞	制作・運用
+ふぉとぐらめとり	Photogrammetry	名詞	制作・運用
+すきゃにんぐ	Scanning	名詞	制作・運用
+ぽいんとくらうど	Point Cloud	名詞	制作・運用
+ぼくせる	Voxel	名詞	制作・運用
+らすたらいず	Rasterize	名詞	制作・運用
+じーぴーゆーぱーてぃくる	GPU Particle	名詞	制作・運用
+きゅーぶまっぷ	Cubemap	名詞	制作・運用
+えすえすあーる	SSR	名詞	制作・運用
+えすえすえーおー	SSAO	名詞	制作・運用
+えいちでぃーあーる	HDR	名詞	制作・運用
+えすでぃーあーる	SDR	名詞	制作・運用
+とーんまっぴんぐ	Tone Mapping	名詞	制作・運用
+るっくあっぷてーぶる	LUT	名詞	制作・運用
+ぽすたらいず	Posterize	名詞	制作・運用
+ぶるーむ	Bloom	名詞	制作・運用
+れんずふれあ	Lens Flare	名詞	制作・運用
+しゃったーあんぐる	Shutter Angle	名詞	制作・運用
+どふ	Depth of Field	名詞	制作_運用
+あなもるふぃっく	Anamorphic	名詞	制作・運用
+ぼけ	Bokeh	名詞	制作・運用
+くろまてぃっく	Chromatic	名詞	制作・運用
+あばれーしょん	Aberration	名詞	制作・運用
+でぃすとーしょん	Distortion	名詞	制作・運用
+のいず	Noise	名詞	制作・運用
+じったー	Jitter	名詞	制作・運用
+ばんり	Banding	名詞	制作・運用
+もあれ	Moire	名詞	制作・運用
+ありあしんぐ	Aliasing	名詞	制作・運用
+しゃーぷねす	Sharpness	名詞	制作・運用
+すむーじんぐ	Smoothing	名詞	制作・運用
+てっせれーしょん	Tessellation	名詞	制作・運用
+でぃすぷれーすめんと	Displacement	名詞	制作・運用
+ぱららっくす	Parallax	名詞	制作・運用
+のーまるまっぷ	Normal Map	名詞	制作・運用
+ばんぷまっぷ	Bump Map	名詞	制作・運用
+きゃびてぃまっぷ	Cavity Map	名詞	制作・運用
+あさいん	Assign	名詞	制作・運用
+あせーと	Assert	名詞	制作・運用
+あとりびゅーと	Attribute	名詞	制作・運用
+ばいんど	Bind	名詞	制作・運用
+きゃっしゅ	Cache	名詞	制作・運用
+こーるばっく	Callback	名詞	制作・運用
+きゃすと	Cast	名詞	制作・運用
+ちゃんねる	Channel	名詞	制作・運用
+ちゃんく	Chunk	名詞	制作・運用
+くらんぷ	Clamp	名詞	制作・運用
+くりっぷ	Clip	名詞	制作・運用
+くろーる	Crawl	名詞	制作・運用
+でぃふゅーず	Diffuse	名詞	制作・運用
+でぃれくてぃぶ	Directive	名詞	制作・運用
+だんぷ	Dump	名詞	制作・運用
+えみったー	Emitter	名詞	制作・運用
+えなむ	Enum	名詞	制作・運用
+ふぁくとりー	Factory	名詞	制作・運用
+ふぃーるど	Field	名詞	制作・運用
+ふらぐ	Flag	名詞	制作・運用
+ふろー	Flow	名詞	制作・運用
+ふらすたむ	Frustum	名詞	制作・運用
+じぇねりっく	Generic	名詞	制作・運用
+はんどる	Handle	名詞	制作・運用
+はっしゅ	Hash	名詞	制作・運用
+ひーぷ	Heap	名詞	制作・運用
+ふっく	Hook	名詞	制作・運用
+いんでっくす	Index	名詞	制作・運用
+いんへりたんす	Inheritance	名詞	制作・運用
+いんらいん	Inline	名詞	制作・運用
+いんすたんす	Instance	名詞	制作・運用
+いんたーふぇーす	Interface	名詞	制作・運用
+いんたーぽれーしょん	Interpolation	名詞	制作・運用
+いんべんとり	Inventory	名詞	制作・運用
+あてれーしょん	Iteration	名詞	制作・運用
+れいやー	Layer	名詞	制作・運用
+りあうと	Layout	名詞	制作・運用
+らいぶらり	Library	名詞	制作・運用
+りんく	Link	名詞	制作・運用
+ろーかる	Local	名詞	制作・運用
+るーぷ	Loop	名詞	制作・運用
+めそっど	Method	名詞	制作・運用
+もじゅーる	Module	名詞	制作・運用
+ねーむすぺーす	Namespace	名詞	制作・運用
+ねいてぃぶ	Native	名詞	制作・運用
+ねすと	Nest	名詞	制作・運用
+のーど	Node	名詞	制作・運用
+ぬる	Null	名詞	制作・運用
+おぶじぇくと	Object	名詞	制作・運用
+おふせっと	Offset	名詞	制作・運用
+おぱしてぃ	Opacity	名詞	制作・運用
+おーばーろーど	Overload	名詞	制作・運用
+おーばーらいど	Override	名詞	制作・運用
+ぱっけーじ	Package	名詞	制作・運用
+ぱらめーた	Parameter	名詞	制作・運用
+ぱーす	Parse	名詞	制作・運用
+ぱっち	Patch	名詞	制作・運用
+ぱす	Path	名詞	制作・運用
+ぱいぷらいん	Pipeline	名詞	制作・運用
+ぷらぐいん	Plugin	名詞	制作・運用
+ぽいんた	Pointer	名詞	制作・運用
+ぽーと	Port	名詞	制作・運用
+ぷりせっと	Preset	名詞	制作・運用
+ぷろじぇくと	Project	名詞	制作・運用
+ぷろぱてぃ	Property	名詞	制作・運用
+ぷろとこる	Protocol	名詞	制作・運用
+くえり	Query	名詞	制作・運用
+きゅー	Queue	名詞	制作・運用
+らんてん	Random	名詞	制作・運用
+れんじ	Range	名詞	制作・運用
+りふぁれんす	Reference	名詞	制作・運用
+りふれっしゅ	Refresh	名詞	制作・運用
+りじすと	Register	名詞	制作・運用
+りりーす	Release	名詞	制作・運用
+りもーと	Remote	名詞	制作・運用
+れんだー	Render	名詞	制作・運用
+りぽじとり	Repository	名詞	制作・運用
+りくえすと	Request	名詞	制作・運用
+りぞーるぶ	Resolve	名詞	制作・運用
+りそーす	Resource	名詞	制作・運用
+れすぽんす	Response	名詞	制作・運用
+りたーん	Return	名詞	制作・運用
+るーと	Root	名詞	制作・運用
+るーてぃん	Routine	名詞	制作・運用
+らんたいむ	Runtime	名詞	制作・運用
+さんぷる	Sample	名詞	制作・運用
+せーぶ	Save	名詞	制作・運用
+すけーる	Scale	名詞	制作・運用
+すけじゅーら	Scheduler	名詞	制作・運用
+すこーぷ	Scope	名詞	制作・運用
+すくりぷと	Script	名詞	制作・運用
+せくしょん	Section	名詞	制作・運用
+せれくと	Select	名詞	制作・運用
+せりある	Serial	名詞	制作・運用
+さーばー	Server	名詞	制作・運用
+せっしょん	Session	名詞	制作・運用
+しぇーだー	Shader	名詞	制作・運用
+しぇる	Shell	名詞	制作・運用
+しんぐるとん	Singleton	名詞	制作・運用
+すなっぷ	Snap	名詞	制作・運用
+すにぺっと	Snippet	名詞	制作・運用
+そけっと	Socket	名詞	制作・運用
+そーと	Sort	名詞	制作・運用
+そーす	Source	名詞	制作・運用
+すぺーす	Space	名詞	制作・運用
+すたっく	Stack	名詞	制作・運用
+すたんだーど	Standard	名詞	制作・運用
+すてーと	State	名詞	制作・運用
+すたてぃっく	Static	名詞	制作・運用
+すとーりーむ	Stream	名詞	制作・運用
+すとりんぐ	String	名詞	制作・運用
+すとらくと	Struct	名詞	制作・運用
+すたいる	Style	名詞	制作・運用
+すいっち	Switch	名詞	制作・運用
+しんく	Sync	名詞	制作・運用
+しすてむ	System	名詞	制作・運用
+たぶ	Tab	名詞	制作・運用
+たぐ	Tag	名詞	制作・運用
+たーげっと	Target	名詞	制作・運用
+たすく	Task	名詞	制作・運用
+てんぷれーと	Template	名詞	制作・運用
+てすと	Test	名詞	制作・運用
+てきすと	Text	名詞	制作・運用
+てくすちゃ	Texture	名詞	制作・運用
+すれっど	Thread	名詞	制作・運用
+ちると	Tilt	名詞	制作・運用
+たいむ	Time	名詞	制作・運用
+とーくん	Token	名詞	制作・運用
+つーる	Tool	名詞	制作・運用
+とれーす	Trace	名詞	制作・運用
+とらんすふぉーむ	Transform	名詞	制作・運用
+とらんじしょん	Transition	名詞	制作・運用
+とりがー	Trigger	名詞	制作・運用
+たいぷ	Type	名詞	制作・運用
+あんどぅ	Undo	名詞	制作・運用
+ゆにっと	Unit	名詞	制作・運用
+あっぷでーと	Update	名詞	制作・運用
+ゆーざー	User	名詞	制作・運用
+ゆーてぃりてぃ	Utility	名詞	制作・運用
+ばりゅー	Value	名詞	制作・運用
+ゔぁりあんと	Variant	名詞	制作・運用
+べくとる	Vector	名詞	制作・運用
+ばーじょん	Version	名詞	制作・運用
+ゔりゅーむ	Volume	名詞	制作・運用
+うえいと	Wait	名詞	制作・運用
+うぃんどう	Window	名詞	制作・運用
+わーく	Work	名詞	制作・運用
+わーるど	World	名詞	制作・運用
+ぜっとばっふぁ	Z-Buffer	名詞	制作・運用
+ぜっとふぁいん	Z-Fighting	名詞	制作・運用
+ぜろでぃばいど	Zero Divide	名詞	制作・運用
+ぐらふぃっく	Graphic	名詞	グラフィック・デザイン
+びじゅある	Visual	名詞	グラフィック・デザイン
+あーと	Art	名詞	グラフィック・デザイン
+でざいん	Design	名詞	グラフィック・デザイン
+くらすたー	Cluster	名詞	グラフィック・デザイン
+あいこん	Icon	名詞	グラフィック・デザイン
+しんぼる	Symbol	名詞	グラフィック・デザイン
+ろご	Logo	名詞	グラフィック・デザイン
+えんぶれむ	Emblem	名詞	グラフィック・デザイン
+いらすとれーしょん	Illustration	名詞	グラフィック・デザイン
+ふぉとぐらふ	Photograph	名詞	グラフィック・デザイン
+たいぽぐらふぃ	Typography	名詞	グラフィック・デザイン
+れいあうと	Layout	名詞	グラフィック・デザイン
+こんぽじしょん	Composition	名詞	グラフィック・デザイン
+ばらんす	Balance	名詞	グラフィック・デザイン
+こんとらすと	Contrast	名詞	グラフィック・デザイン
+はーもにー	Harmony	名詞	グラフィック・デザイン
+りずむ	Rhythm	名詞	グラフィック・デザイン
+むーゔめんと	Movement	名詞	グラフィック・デザイン
+ぷろぽーしょん	Proportion	名詞	グラフィック・デザイン
+えんふぁしす	Emphasis	名詞	グラフィック・デザイン
+ゆにてぃ	Unity	名詞	グラフィック・デザイン
+ばりえーしょん	Variation	名詞	グラフィック・デザイン
+ぐらでーしょん	Gradation	名詞	グラフィック・デザイン
+てくすちゃ	Texture	名詞	グラフィック・デザイン
+ぱたーん	Pattern	名詞	グラフィック・デザイン
+すぺーす	Space	名詞	グラフィック・デザイン
+ねがてぃぶすぺーす	Negative Space	名詞	グラフィック・デザイン
+ほわいとすぺーす	White Space	名詞	グラフィック・デザイン
+はいえらるきー	Hierarchy	名詞	グラフィック・デザイン
+あらいんめんと	Alignment	名詞	グラフィック・デザイン
+ぷろきしみてぃ	Proximity	名詞	グラフィック・デザイン
+れぺてぃしょん	Repetition	名詞	グラフィック・デザイン
+ぐりっど	Grid	名詞	グラフィック・デザイン
+まーじん	Margin	名詞	グラフィック・デザイン
+ぱでぃんぐ	Padding	名詞	グラフィック・デザイン
+からーほいーる	Color Wheel	名詞	グラフィック・デザイン
+ぱれっと	Palette	名詞	グラフィック・デザイン
+すきーむ	Scheme	名詞	グラフィック・デザイン
+もんくろ	Monochrome	名詞	グラフィック・デザイン
+あなろがす	Analogous	名詞	グラフィック・デザイン
+こんぷりめんたりー	Complementary	名詞	グラフィック・デザイン
+とらいあど	Triad	名詞	グラフィック・デザイン
+てとらど	Tetrad	名詞	グラフィック・デザイン
+あくせんとからー	Accent Color	名詞	グラフィック・デザイン
+どみなんとからー	Dominant Color	名詞	グラフィック・デザイン
+せぱれーしょん	Separation	名詞	グラフィック・デザイン
+ぐらでーしょん	Gradation	名詞	グラフィック・デザイン
+にゅあんす	Nuance	名詞	グラフィック・デザイン
+とーん	Tone	名詞	グラフィック・デザイン
+しぇーど	Shade	名詞	グラフィック・デザイン
+てぃんと	Tint	名詞	グラフィック・デザイン
+さちゅれーしょん	Saturation	名詞	グラフィック・デザイン
+ぷりずむ	Prism	名詞	グラフィック・デザイン
+すぺくとる	Spectrum	名詞	グラフィック・デザイン
+あーるじーびー	RGB	名詞	グラフィック・デザイン
+しーえむわいきー	CMYK	名詞	グラフィック・デザイン
+えいちえすびー	HSB	名詞	グラフィック・デザイン
+えいちえすえる	HSL	名詞	グラフィック・デザイン
+ぱんとん	Pantone	名詞	グラフィック・デザイン
+びっとまっぷ	Bitmap	名詞	グラフィック・デザイン
+らすたー	Raster	名詞	グラフィック_デザイン
+べくたー	Vector	名詞	グラフィック・デザイン
+かいぞうど	Resolution	名詞	グラフィック・デザイン
+ぴくせる	Pixel	名詞	グラフィック・デザイン
+あすぺくとひ	Aspect Ratio	名詞	グラフィック・デザイン
+あうとらいん	Outline	名詞	グラフィック・デザイン
+しるえっと	Silhouette	名詞	グラフィック・デザイン
+ふぉるむ	Form	名詞	グラフィック・デザイン
+しぇいぷ	Shape	名詞	グラフィック・デザイン
+じおめとりっく	Geometric	名詞	グラフィック・デザイン
+おーがにっく	Organic	名詞	グラフィック・デザイン
+あぶすとらくと	Abstract	名詞	グラフィック・デザイン
+みにまりずむ	Minimalism	名詞	グラフィック・デザイン
+ふらっとでざいん	Flat Design	名詞	グラフィック・デザイン
+すきゅーあもふぃずむ	Skeuomorphism	名詞	グラフィック・デザイン
+にゅーもふぃずむ	Neumorphism	名詞	グラフィック・デザイン
+ぐらすもふぃずむ	Glassmorphism	名詞	グラフィック・デザイン
+もりてぃあるでざいん	Material Design	名詞	グラフィック・デザイン
+ふろんとびゅー	Front View	名詞	グラフィック・デザイン
+さいどびゅー	Side View	名詞	グラフィック・デザイン
+とっぷびゅー	Top View	名詞	グラフィック・デザイン
+ぱーすぺくてぃぶ	Perspective	名詞	グラフィック・デザイン
+あいそめとりっく	Isometric	名詞	グラフィック・デザイン
+おるとぐらふぃっく	Orthographic	名詞	グラフィック・デザイン
+ぱのらま	Panorama	名詞	グラフィック・デザイン
+ふぃっしゅあい	Fish-eye	名詞	グラフィック・デザイン
+ゔぁにっしんぐぽいんと	Vanishing Point	名詞	グラフィック・デザイン
+あいにーぼー	Eye Level	名詞	グラフィック・デザイン
+はいあんぐる	High Angle	名詞	グラフィック・デザイン
+ろーあんぐる	Low Angle	名詞	グラフィック・デザイン
+ばーずあい	Bird's Eye	名詞	グラフィック・デザイン
+わーむずあい	Worm's Eye	名詞	グラフィック・デザイン
+ごーるでんれしお	Golden Ratio	名詞	グラフィック・デザイン
+るーるおぶさーず	Rule of Thirds	名詞	グラフィック・デザイン
+ふれーみんぐ	Framing	名詞	グラフィック・デザイン
+けあろすくーろ	Chiaroscuro	名詞	グラフィック・デザイン
+ぐりざゆ	Grisaille	名詞	グラフィック・デザイン
+あるべど	Albedo	名詞	グラフィック・デザイン
+らふねす	Roughness	名詞	グラフィック・デザイン
+めたるねす	Metalness	名詞	グラフィック・デザイン
+すぺきゅらー	Specular	名詞	グラフィック・デザイン
+のーまる	Normal	名詞	グラフィック・デザイン
+でぃすぷれーすめんと	Displacement	名詞	グラフィック・デザイン
+あんばいあんとｵｸﾙｰｼﾞｮﾝ	Ambient Occlusion	名詞	グラフィック・デザイン
+あにそとろぴー	Anisotropy	名詞	グラフィック・デザイン
+ふれねる	Fresnel	名詞	グラフィック・デザイン
+さぶさーふぇす	Subsurface	名詞	グラフィック・デザイン
+すきゃったりんぐ	Scattering	名詞	グラフィック・デザイン
+とぅーん	Toon	名詞	グラフィック・デザイン
+せーるしぇーでぃんぐ	Cel Shading	名詞	グラフィック・デザイン
+はーふとーん	Halftone	名詞	グラフィック・デザイン
+すとろぼ	Strobe	名詞	グラフィック・デザイン
+おぱしてぃ	Opacity	名詞	グラフィック・デザイン
+とらんすぺあれんしー	Transparency	名詞	グラフィック・デザイン
+るみねせんす	Luminescence	名詞	グラフィック・デザイン
+ふぉすふぉれせんす	Phosphorescence	名詞	グラフィック・デザイン
+ふろーれせんす	Fluorescence	名詞	グラフィック・デザイン
+いりでっせんす	Iridescence	名詞	グラフィック・デザイン
+びじゅあるあいでんてぃてぃ	Visual Identity	名詞	グラフィック・デザイン
+ぶらんどがいどらいん	Brand Guidelines	名詞	グラフィック・デザイン
+すたいるしーと	Style Sheet	名詞	グラフィック・デザイン
+むーどぼーど	Moodboard	名詞	グラフィック・デザイン
+すとーりーぼーど	Storyboard	名詞	グラフィック・デザイン
+わいあふれーむ	Wireframe	名詞	UI/UX
+もっくあっぷ	Mockup	名詞	UI/UX
+ぷろとたいぷ	Prototype	名詞	UI/UX
+ゆーざーいんたーふぇーす	User Interface	名詞	UI/UX
+ゆーざーえくすぺりえんす	User Experience	名詞	UI/UX
+あふぉーだんす	Affordance	名詞	UI/UX
+しぐにふぁいあ	Signifier	名詞	UI/UX
+ふぃーどばっく	Feedback	名詞	UI/UX
+いんたらくしょん	Interaction	名詞	UI/UX
+なびげーしょん	Navigation	名詞	UI/UX
+めにゅーばー	Menu Bar	名詞	UI/UX
+つーるばー	Toolbar	名詞	UI/UX
+すてーたすばー	Status Bar	名詞	UI/UX
+さいどばー	Sidebar	名詞	UI/UX
+たぶ	Tab	名詞	UI/UX
+ぼたん	Button	名詞	UI/UX
+ちぇっくぼっくす	Checkbox	名詞	UI/UX
+らじおぼたん	Radio Button	名詞	UI/UX
+とぐるすいっち	Toggle Switch	名詞	UI/UX
+すらいだー	Slider	名詞	UI/UX
+どろっぷだうん	Dropdown	名詞	UI/UX
+こんぼぼっくす	Combo Box	名詞	UI/UX
+てきすとふぃーるど	Text Field	名詞	UI/UX
+さーちばー	Search Bar	名詞	UI/UX
+ぷろぐれすばー	Progress Bar	名詞	UI/UX
+ろーだー	Loader	名詞	UI/UX
+すぴなー	Spinner	名詞	UI/UX
+すけるとんすくりーん	Skeleton Screen	名詞	UI/UX
+とーすと	Toast	名詞	UI/UX
+すなっくばー	Snackbar	名詞	UI/UX
+もーだる	Modal	名詞	UI/UX
+だいあろぐ	Dialog	名詞	UI/UX
+ぽっぷあっぷ	Popup	名詞	UI/UX
+つーるとりっぷ	Tooltip	名詞	UI/UX
+ぽっぷおーばー	Popover	名詞	UI/UX
+あこーでぃおん	Accordion	名詞	UI/UX
+かるーせる	Carousel	名詞	UI/UX
+かーど	Card	名詞	UI/UX
+ばっじ	Badge	名詞	UI/UX
+あバター	Avatar	名詞	UI/UX
+ぶれっどくらむ	Breadcrumb	名詞	UI/UX
+ぱじねーしょん	Pagination	名詞	UI/UX
+いんふぃにっとすくろーる	Infinite Scroll	名詞	UI/UX
+はんばーがーめにゅー	Hamburger Menu	名詞	UI/UX
+ふろーてぃんぐぼたん	Floating Button	名詞	UI/UX
+たっちたーげっと	Touch Target	名詞	UI/UX
+じぇすちゃー	Gesture	名詞	UI/UX
+すわいぷ	Swipe	名詞	UI/UX
+ぴんち	Pinch	名詞	UI/UX
+どらっぐあんどどろっぷ	Drag and Drop	名詞	UI/UX
+ほばー	Hover	名詞	UI/UX
+ふぉーかす	Focus	名詞	UI/UX
+あくてぃぶ	Active	名詞	UI/UX
+でぃせーぶる	Disable	名詞	UI/UX
+りーどおんりー	Read-only	名詞	UI/UX
+ぷれーすほるだー	Placeholder	名詞	UI/UX
+ばりでーしょん	Validation	名詞	UI/UX
+えらーめっせーじ	Error Message	名詞	UI/UX
+だーくもーど	Dark Mode	名詞	UI/UX
+らいともーど	Light Mode	名詞	UI/UX
+あくせさびりてぃ	Accessibility	名詞	UI/UX
+れすぽんしぶでざいん	Responsive Design	名詞	UI/UX
+あだぷてぃぶでざいん	Adaptive Design	名詞	UI/UX
+りきっとれいあうと	Liquid Layout	名詞	UI/UX
+ぶれーくぽいんと	Breakpoint	名詞	UI/UX
+びじゅあるらいてぃんぐ	Visual Writing	名詞	UI/UX
+まいくろこぴー	Microcopy	名詞	UI/UX
+まいくろいんたらくしょん	Microinteraction	名詞	UI/UX
+えーびーてすと	A/B Testing	名詞	UI/UX
+ゆーざびりてぃてすと	Usability Testing	名詞	UI/UX
+えんぱしーまっぷ	Empathy Map	名詞	UI/UX
+ゆーざーじゃーにー	User Journey	名詞	UI/UX
+ぺるそな	Persona	名詞	UI/UX
+すとーりーまーぷ	Story Map	名詞	UI/UX
+ひーとまっぷ	Heatmap	名詞	UI/UX
+あいたらっきんぐ	Eye Tracking	名詞	UI/UX
+いんふぉめーしょんあーきてくちゃ	Information Architecture	名詞	UI/UX
+さいとまっぷ	Sitemap	名詞	UI/UX
+ふろーちゃーと	Flowchart	名詞	UI/UX
+わーくふろー	Workflow	名詞	UI/UX
+でざいんしすてむ	Design System	名詞	UI/UX
+すたいるがいど	Style Guide	名詞	UI/UX
+ぱたーんらいぶらり	Pattern Library	名詞	UI/UX
+こんぽーねんとらいぶらり	Component Library	名詞	UI/UX
+あとみっくでざいん	Atomic Design	名詞	UI/UX
+とーくん	Tokens	名詞	UI/UX
+ざーいんでっくす	Z-index	名詞	UI/UX
+すたっく	Stack	名詞	UI/UX
+ふろーと	Float	名詞	UI/UX
+ふれっくす	Flex	名詞	UI/UX
+ぐりっど	Grid	名詞	UI/UX
+ぼっくすもでる	Box Model	名詞	UI/UX
+けーにんぐ	Kerning	名詞	タイポグラフィ
+とらっきんぐ	Tracking	名詞	タイポグラフィ
+れでぃんぐ	Leading	名詞	タイポグラフィ
+べーすらいん	Baseline	名詞	タイポグラフィ
+えっくすはいと	X-height	名詞	タイポグラフィ
+あせんだー	Ascender	名詞	タイポグラフィ
+でぃせんだー	Descender	名詞	タイポグラフィ
+せりふ	Serif	名詞	タイポグラフィ
+さんせりふ	Sans-serif	名詞	タイポグラフィ
+すりぶせりふ	Slab Serif	名詞	タイポグラフィ
+すくりぷと	Script	名詞	タイポグラフィ
+ものすぺーす	Monospace	名詞	タイポグラフィ
+うぇいと	Weight	名詞	タイポグラフィ
+いたりっく	Italic	名詞	タイポグラフィ
+おぶりーく	Oblique	名詞	タイポグラフィ
+かんぜんしゅうしょく	Justified	名詞	タイポグラフィ
+あらいんめん	Alignment	名詞	タイポグラフィ
+りはげっど	Rugged	名詞	タイポグラフィ
+りはふて	Left-aligned	名詞	タイポグラフィ
+りらは	Right-aligned	名詞	タイポグラフィ
+せんたーあらいん	Center-aligned	名詞	タイポグラフィ
+りーだー	Leader	名詞	タイポグラフィ
+りがちゃ	Ligature	名詞	タイポグラフィ
+ろーわーけーす	Lowercase	名詞	タイポグラフィ
+あっぱーけーす	Uppercase	名詞	タイポグラフィ
+きゃめるけーす	Camel Case	名詞	タイポグラフィ
+ぱすかるけーす	Pascal Case	名詞	タイポグラフィ
+すねーくけーす	Snake Case	名詞	タイポグラフィ
+けばぶけーす	Kebab Case	名詞	タイポグラフィ
+ろーまん	Roman	名詞	タイポグラフィ
+ごしっく	Gothic	名詞	タイポグラフィ
+みんちょう	Mincho	名詞	タイポグラフィ
+あどび	Adobe	名詞	ツール・ブランド
+ふぉとそっぷ	Photoshop	名詞	ツール・ブランド
+いらすとれーたー	Illustrator	名詞	ツール・ブランド
+いんでざいん	InDesign	名詞	ツール・ブランド
+えくすでぃー	XD	名詞	ツール・ブランド
+ふぃぐま	Figma	名詞	ツール・ブランド
+すけっち	Sketch	名詞	ツール・ブランド
+かんば	Canva	名詞	ツール・ブランド
+ぷれみあ	Premiere	名詞	ツール・ブランド
+あふたーえふぇくと	After Effects	名詞	ツール・ブランド
+だびんち	DaVinci	名詞	ツール・ブランド
+ぶりん	Blender	名詞	ツール・ブランド
+まや	Maya	名詞	ツール・ブランド
+すりーでぃーえすまっくす	3ds Max	名詞	ツール・ブランド
+じーぶらし	ZBrush	名詞	ツール・ブランド
+しねまふぉーでぃー	Cinema 4D	名詞	ツール・ブランド
+さぶすたんす	Substance	名詞	ツール・ブランド
+あにめーしょん	Animation	名詞	アート手法
+もーしょんぐらふぃっくす	Motion Graphics	名詞	アート手法
+すとっぷもーしょん	Stop Motion	名詞	アート手法
+ろとすこーぴんぐ	Rotoscoping	名詞	アート手法
+せりあにめーしょん	Cel Animation	名詞	アート手法
+でじたるあーと	Digital Art	名詞	アート手法
+ぴくせるあーと	Pixel Art	名詞	アート手法
+ゔぉくせるあーと	Voxel Art	名詞	アート手法
+じぇねれーてぃぶあーと	Generative Art	名詞	アート手法
+ぐりっちあーと	Glitch Art	名詞	アート手法
+こらーじゅ	Collage	名詞	アート手法
+ふぉともんたーじゅ	Photomontage	名詞	アート手法
+みっくすどめでぃあ	Mixed Media	名詞	アート手法
+いんすたれーしょん	Installation	名詞	アート手法
+こんせぷとあーと	Concept Art	名詞	アート手法
+まったいぺいんてぃんぐ	Matte Painting	名詞	アート手法
+きゃらくたーでざいん	Character Design	名詞	アート手法
+くりーちゃーでざいん	Creature Design	名詞	アート手法
+めかでざいん	Mecha Design	名詞	アート手法
+ぷろっぷでざいん	Prop Design	名詞	アート手法
+えんゔぁいろんめんと	Environment	名詞	アート手法
+てぃーぽーず	T-pose	名詞	アート手法
+えーぽーず	A-pose	名詞	アート手法
+りぎんぐ	Rigging	名詞	アート手法
+うえいと	Weight	名詞	アート手法
+しぇいぷきー	Shape Key	名詞	アート手法
+きーふれーむ	Keyframe	名詞	アート手法
+いんびとぅいーん	In-between	名詞	アート手法
+たまねぎがわ	Onion Skin	名詞	アート手法
+ぱーてぃくる	Particle	名詞	アート手法
+えみったー	Emitter	名詞	アート手法
+ふぉーすふぃーるど	Force Field	名詞	アート手法
+おりがみ	Origami	名詞	アート手法
+てっせれーしょん	Tessellation	名詞	アート手法
+のいず	Noise	名詞	アート手法
+ふらくたる	Fractal	名詞	アート手法
+じおめとり	Geometry	名詞	アート手法
+とぽろじー	Topology	名詞	アート手法
+りどぽろじー	Retopology	名詞	アート手法
+ゆーぶい	UV	名詞	アート手法
+てくすちゃ	Texture	名詞	アート手法
+べいく	Bake	名詞	アート手法
+れんだりんぐ	Rendering	名詞	アート手法
+れいとれーしんぐ	Ray Tracing	名詞	アート手法
+らすたらいぜーしょん	Rasterization	名詞	アート手法
+すきゃんらいん	Scanline	名詞	アート手法
+ぱすとれーしんぐ	Path Tracing	名詞	アート手法
+ぐろーばるいるみねーしょん	Global Illumination	名詞	アート手法
+かいてぃんぐ	Lighting	名詞	アート手法
+しぇーでぃんぐ	Shading	名詞	アート手法
+ふぉん	Phong	名詞	アート手法
+ぐーろー	Gouraud	名詞	アート手法
+らんばーと	Lambert	名詞	アート手法
+ぶりん	Blinn	名詞	アート手法
+ぴーびーあーる	PBR	名詞	アート手法
+えねるぎーほぞん	Energy Conservation	名詞	アート手法
+ふれねる	Fresnel	名詞	アート手法
+まいくろふぁせっと	Microfacet	名詞	アート手法
+いらでぃあんす	Irradiance	名詞	アート手法
+らでぃあんす	Radiance	名詞	アート手法
+るーめん	Lumen	名詞	アート手法
+るくす	Lux	名詞	アート手法
+かんでら	Candela	名詞	アート手法
+からーてんぷらちゃー	Color Temperature	名詞	アート手法
+びじゅあるえふぇくと	VFX	名詞	アート手法
+えすえふえっくす	SFX	名詞	アート手法
+びーあーる	VR	名詞	アート手法
+えーあーる	AR	名詞	アート手法
+えむあーる	MR	名詞	アート手法
+えっくすあーる	XR	名詞	アート手法
+めたばーす	Metaverse	名詞	アート手法
+あバター	Avatar	名詞	アート手法
+ほろぐらむ	Hologram	名詞	アート手法
+ぷろじぇくしょんまっぴんぐ	Projection Mapping	名詞	アート手法
+いんらあくてぃぶ	Interactive	名詞	アート手法
+いあーめーしょん	Immersion	名詞	アート手法
+ぷれぜんす	Presence	名詞	アート手法
+てれぷれぜんす	Telepresence	名詞	アート手法
+はぷてぃくす	Haptics	名詞	アート手法
+ふぃーどばっく	Feedback	名詞	アート手法
+せんさー	Sensor	名詞	アート手法
+とらっきんぐ	Tracking	名詞	アート手法
+おぷてぃかる	Optical	名詞	アート手法
+いねーしゃる	Inertial	名詞	アート手法
+うるとらそにっく	Ultrasonic	名詞	アート手法
+まぐねてぃっく	Magnetic	名詞	アート手法

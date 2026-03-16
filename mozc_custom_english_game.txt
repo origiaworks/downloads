@@ -1,0 +1,421 @@
+うぉりあー	Warrior	名詞	ゲーム用語
+ないと	Knight	名詞	ゲーム用語
+ぱらでぃん	Paladin	名詞	ゲーム用語
+ぐらでぃえーたー	Gladiator	名詞	ゲーム用語
+ばーさーかー	Berserker	名詞	ゲーム用語
+もんく	Monk	名詞	ゲーム用語
+さむらい	Samurai	名詞	ゲーム用語
+にんじゃ	Ninja	名詞	ゲーム用語
+あさしん	Assassin	名詞	ゲーム用語
+しーふ	Thief	名詞	ゲーム用語
+ろーぐ	Rogue	名詞	ゲーム用語
+れんじゃー	Ranger	名詞	ゲーム用語
+あーちゃー	Archer	名詞	ゲーム用語
+はんたー	Hunter	名詞	ゲーム用語
+がんなー	Gunner	名詞	ゲーム用語
+めいじ	Mage	名詞	ゲーム用語
+うぃざーど	Wizard	名詞	ゲーム用語
+そーさらー	Sorcerer	名詞	ゲーム用語
+わーろっく	Warlock	名詞	ゲーム用語
+ねくろまんさー	Necromancer	名詞	ゲーム用語
+ぷりーすと	Priest	名詞	ゲーム用語
+くれりっく	Cleric	名詞	ゲーム用語
+びしょっぷ	Bishop	名詞	ゲーム用語
+どるいど	Druid	名詞	ゲーム用語
+しゃーまん	Shaman	名詞	ゲーム用語
+さもんー	Summoner	名詞	ゲーム用語
+ばーど	Bard	名詞	ゲーム用語
+だんさー	Dancer	名詞	ゲーム用語
+あるけみすと	Alchemist	名詞	ゲーム用語
+せいじ	Sage	名詞	ゲーム用語
+おらくる	Oracle	名詞	ゲーム用語
+だーくないと	Dark Knight	名詞	ゲーム用語
+どらぐーん	Dragoon	名詞	ゲーム用語
+ヴぁるきりー	Valkyrie	名詞	ゲーム用語
+ぜうす	Zeus	名詞	ゲーム用語
+ぽせいどん	Poseidon	名詞	ゲーム用語
+はです	Hades	名詞	ゲーム用語
+あぽろん	Apollo	名詞	ゲーム用語
+あるてみす	Artemis	名詞	ゲーム用語
+あてな	Athena	名詞	ゲーム用語
+あーれす	Ares	名詞	ゲーム用語
+おーでぃん	Odin	名詞	ゲーム用語
+とーる	Thor	名詞	ゲーム用語
+ろき	Loki	名詞	ゲーム用語
+ふれいや	Freya	名詞	ゲーム用語
+ふぇんりる	Fenrir	名詞	ゲーム用語
+よるむんがんど	Jormungand	名詞	ゲーム用語
+ばはむーと	Bahamut	名詞	ゲーム用語
+りゔぁいあさん	Leviathan	名詞	ゲーム用語
+いふりーと	Ifrit	名詞	ゲーム用語
+ふぇにっくす	Phoenix	名詞	ゲーム用語
+しゔぁ	Shiva	名詞	ゲーム用語
+らむう	Ramuh	名詞	ゲーム用語
+たいたん	Titan	名詞	ゲーム用語
+がるーだ	Garuda	名詞	ゲーム用語
+じゅりあーど	Diabolos	名詞	ゲーム用語
+べーもす	Behemoth	名詞	ゲーム用語
+きまいら	Chimera	名詞	ゲーム用語
+ひゅどら	Hydra	名詞	ゲーム用語
+わいばーん	Wyvern	名詞	ゲーム用語
+どらごん	Dragon	名詞	ゲーム用語
+りっち	Lich	名詞	ゲーム用語
+ゔぁんぱいあ	Vampire	名詞	ゲーム用語
+ぞんび	Zombie	名詞	ゲーム用語
+すけるとん	Skeleton	名詞	ゲーム用語
+ごぶりん	Goblin	名詞	ゲーム用語
+おーく	Orc	名詞	ゲーム用語
+とろーる	Troll	名詞	ゲーム用語
+おーが	Ogre	名詞	ゲーム用語
+けるべろす	Cerberus	名詞	ゲーム用語
+みのたうろす	Minotaur	名詞	ゲーム用語
+めでゅーさ	Medusa	名詞	ゲーム用語
+せいれーん	Siren	名詞	ゲーム用語
+さきゅばす	Succubus	名詞	ゲーム用語
+えりにゅえす	Erinyes	名詞	ゲーム用語
+えんへりやる	Einherjar	名詞	ゲーム用語
+えくすかりばー	Excalibur	名詞	ゲーム用語
+でゅらんだる	Durandal	名詞	ゲーム用語
+ぐらむ	Gram	名詞	ゲーム用語
+かりばーん	Caliburn	名詞	ゲーム用語
+てぃるふぃんぐ	Tyrfing	名詞	ゲーム用語
+くさなぎ	Kusanagi	名詞	ゲーム用語
+むらまさ	Muramasa	名詞	ゲーム用語
+まさむね	Masamune	名詞	ゲーム用語
+ぐんぐにる	Gungnir	名詞	ゲーム用語
+ろんぎぬす	Longinus	名詞	ゲーム用語
+みょるにる	Mjolnir	名詞	ゲーム用語
+いーじす	Aegis	名詞	ゲーム用語
+くらうすとるむ	Claustrum	名詞	ゲーム用語
+よいち	Yoichi	名詞	ゲーム用語
+らぐなろく	Ragnarok	名詞	ゲーム用語
+あぽかりぷす	Apocalypse	名詞	ゲーム用語
+ですぶりんがー	Deathbringer	名詞	ゲーム用語
+うるてぃまうぇぽん	Ultima Weapon	名詞	ゲーム用語
+だがー	Dagger	名詞	ゲーム用語
+そーど	Sword	名詞	ゲーム用語
+ぐれーとそーど	Greatsword	名詞	ゲーム用語
+かたな	Katana	名詞	ゲーム用語
+れいぴあ	Rapier	名詞	ゲーム用語
+しみたー	Scimitar	名詞	ゲーム用語
+あっくす	Axe	名詞	ゲーム用語
+めいす	Mace	名詞	ゲーム用語
+はんまー	Hammer	名詞	ゲーム用語
+すぴあ	Spear	名詞	ゲーム用語
+はるばーど	Halberd	名詞	ゲーム用語
+すたっふ	Staff	名詞	ゲーム用語
+ろっど	Rod	名詞	ゲーム用語
+わんど	Wand	名詞	ゲーム用語
+ぼう	Bow	名詞	ゲーム用語
+くろすぼう	Crossbow	名詞	ゲーム用語
+しゅりけん	Shuriken	名詞	ゲーム用語
+むち	Whip	名詞	ゲーム用語
+くろー	Claw	名詞	ゲーム用語
+しーるど	Shield	名詞	ゲーム用語
+あーまー	Armor	名詞	ゲーム用語
+へるめっと	Helmet	名詞	ゲーム用語
+ごーんとれっと	Gauntlet	名詞	ゲーム用語
+ふぁいあ	Fire	名詞	ゲーム用語
+ぶりざど	Blizzard	名詞	ゲーム用語
+さんだー	Thunder	名詞	ゲーム用語
+えあろ	Aero	名詞	ゲーム用語
+くえいく	Quake	名詞	ゲーム用語
+うぉーたー	Water	名詞	ゲーム用語
+ほーりー	Holy	名詞	ゲーム用語
+ふれあ	Flare	名詞	ゲーム用語
+めてお	Meteor	名詞	ゲーム用語
+うるてぃま	Ultima	名詞	ゲーム用語
+ぐらびてぃ	Gravity	名詞	ゲーム用語
+ばいお	Bio	名詞	ゲーム用語
+どれいん	Drain	名詞	ゲーム用語
+あすぴる	Osmose	名詞	ゲーム用語
+へいすと	Haste	名詞	ゲーム用語
+すろう	Slow	名詞	ゲーム用語
+すとっぷ	Stop	名詞	ゲーム用語
+りふれく	Reflect	名詞	ゲーム用語
+しぇる	Shell	名詞	ゲーム用語
+ぷろてす	Protect	名詞	ゲーム用語
+りじぇね	Regen	名詞	ゲーム用語
+れいず	Raise	名詞	ゲーム用語
+えすな	Esuna	名詞	ゲーム用語
+けある	Cure	名詞	ゲーム用語
+すとれんくす	Strength	名詞	ゲーム用語
+いんてりじぇんす	Intelligence	名詞	ゲーム用語
+でくすたりてぃ	Dexterity	名詞	ゲーム用語
+あじりてぃ	Agility	名詞	ゲーム用語
+ばいたりてぃ	Vitality	名詞	ゲーム用語
+らっく	Luck	名詞	ゲーム用語
+まいんど	Mind	名詞	ゲーム用語
+ぱいえてぃ	Piety	名詞	ゲーム用語
+くりてぃかる	Critical	名詞	ゲーム用語
+だいれくとひと	Direct Hit	名詞	ゲーム用語
+でたーみねーしょん	Determination	名詞	ゲーム用語
+てなしてぃ	Tenacity	名詞	ゲーム用語
+れじすたんす	Resistance	名詞	ゲーム用語
+うぃーくねす	Weakness	名詞	ゲーム用語
+ばふ	Buff	名詞	ゲーム用語
+でばふ	Debuff	名詞	ゲーム用語
+どっと	DoT	名詞	ゲーム用語
+ほっと	HoT	名詞	ゲーム用語
+ぷろっく	Proc	名詞	ゲーム用語
+くーるだうん	Cooldown	名詞	ゲーム用語
+まな	Mana	名詞	ゲーム用語
+すたみな	Stamina	名詞	ゲーム用語
+えくすぴー	Experience	名詞	ゲーム用語
+れべる	Level	名詞	ゲーム用語
+くえすと	Quest	名詞	ゲーム用語
+ぎるど	Guild	名詞	ゲーム用語
+ぱーてぃ	Party	名詞	ゲーム用語
+れいど	Raid	名詞	ゲーム用語
+だんじょん	Dungeon	名詞	ゲーム用語
+ぼす	Boss	名詞	ゲーム用語
+るーと	Loot	名詞	ゲーム用語
+がちゃ	Gacha	名詞	ゲーム用語
+いんべんとり	Inventory	名詞	ゲーム用語
+あびりてぃ	Ability	名詞	ゲーム用語
+すきる	Skill	名詞	ゲーム用語
+ぱっしぶ	Passive	名詞	ゲーム用語
+あくてぃぶ	Active	名詞	ゲーム用語
+とれーど	Trade	名詞	ゲーム用語
+まーけっと	Market	名詞	ゲーム用語
+あいてむ	Item	名詞	ゲーム用語
+ぽーしょん	Potion	名詞	ゲーム用語
+えりくさー	Elixir	名詞	ゲーム用語
+あーてぃふぁくと	Artifact	名詞	ゲーム用語
+れじぇんだりー	Legendary	名詞	ゲーム用語
+えぴっく	Epic	名詞	ゲーム用語
+れあ	Rare	名詞	ゲーム用語
+あんこもん	Uncommon	名詞	ゲーム用語
+こもん	Common	名詞	ゲーム用語
+えんちゃんと	Enchant	名詞	ゲーム用語
+そけっと	Socket	名詞	ゲーム用語
+じぇむ	Gem	名詞	ゲーム用語
+るーん	Rune	名詞	ゲーム用語
+くらふと	Craft	名詞	ゲーム用語
+あっぷぐれーど	Upgrade	名詞	ゲーム用語
+かたぱると	Catapult	名詞	ゲーム用語
+ばりすた	Ballista	名詞	ゲーム用語
+きゃのん	Cannon	名詞	ゲーム用語
+ごーれむ	Golem	名詞	ゲーム用語
+がーごいる	Gargoyle	名詞	ゲーム用語
+ほむんくるす	Homunculus	名詞	ゲーム用語
+せいれー	Spirit	名詞	ゲーム用語
+えれめんたる	Elemental	名詞	ゲーム用語
+しるふ	Sylph	名詞	ゲーム用語
+さかまんだー	Salamander	名詞	ゲーム用語
+うんでぃーね	Undine	名詞	ゲーム用語
+のーむ	Gnome	名詞	ゲーム用語
+いふりーと	Ifrit	名詞	ゲーム用語
+じにー	Genie	名詞	ゲーム用語
+えんじぇる	Angel	名詞	ゲーム用語
+あーくえんじぇる	Archangel	名詞	ゲーム用語
+せらふ	Seraph	名詞	ゲーム用語
+けりゅびむ	Cherubim	名詞	ゲーム用語
+るしふぁー	Lucifer	名詞	ゲーム用語
+さたん	Satan	名詞	ゲーム用語
+でーもん	Demon	名詞	ゲーム用語
+でびる	Devil	名詞	ゲーム用語
+べるぜぶぶ	Beelzebub	名詞	ゲーム用語
+あすもでうす	Asmodeus	名詞	ゲーム用語
+りりす	Lilith	名詞	ゲーム用語
+もーもん	Mammon	名詞	ゲーム用語
+べりある	Belial	名詞	ゲーム用語
+あざぜる	Azazel	名詞	ゲーム用語
+ぱんどら	Pandora	名詞	ゲーム用語
+ぷろめてうす	Prometheus	名詞	ゲーム用語
+いかろす	Icarus	名詞	ゲーム用語
+あきれす	Achilles	名詞	ゲーム用語
+へらくれす	Hercules	名詞	ゲーム用語
+ぺるせうす	Perseus	名詞	ゲーム用語
+しーじうぇぽん	Siege Weapon	名詞	ゲーム用語
+たわーしーるど	Tower Shield	名詞	ゲーム用語
+ばっくらー	Buckler	名詞	ゲーム用語
+かていな	Chainmail	名詞	ゲーム用語
+ぷれーとめーる	Plate Mail	名詞	ゲーム用語
+ろーぶ	Robe	名詞	ゲーム用語
+ちゅにっく	Tunic	名詞	ゲーム用語
+れざーあーまー	Leather Armor	名詞	ゲーム用語
+くらうん	Crown	名詞	ゲーム用語
+てぃあら	Tiara	名詞	ゲーム用語
+あみゅれっと	Amulet	名詞	ゲーム用語
+ねっくれす	Necklace	名詞	ゲーム用語
+りんぐ	Ring	名詞	ゲーム用語
+ぶれすれっと	Bracelet	名詞	ゲーム用語
+いやりんぐ	Earring	名詞	ゲーム用語
+べると	Belt	名詞	ゲーム用語
+ぶーつ	Boots	名詞	ゲーム用語
+さんだる	Sandals	名詞	ゲーム用語
+まんとお	Cloak	名詞	ゲーム用語
+けーぷ	Cape	名詞	ゲーム用語
+ぐろーぶ	Gloves	名詞	ゲーム用語
+ばすて	Status Ailment	名詞	ゲーム用語
+どく	Poison	名詞	ゲーム用語
+まひ	Paralyze	名詞	ゲーム用語
+ねむり	Sleep	名詞	ゲーム用語
+こんらん	Confuse	名詞	ゲーム用語
+ちんもく	Silence	名詞	ゲーム用語
+くらやみ	Blind	名詞	ゲーム用語
+のろい	Curse	名詞	ゲーム用語
+いしざか	Petrify	名詞	ゲーム用語
+そくし	Instant Death	名詞	ゲーム用語
+びょーき	Disease	名詞	ゲーム用語
+ばーさーく	Berserk	名詞	ゲーム用語
+ふれあ	Flare	名詞	ゲーム用語
+こめっと	Comet	名詞	ゲーム用語
+めら	Fireball	名詞	ゲーム用語
+ぎがでいん	Giga Thunder	名詞	ゲーム用語
+ざりく	Ice Spear	名詞	ゲーム用語
+ばぎ	Wind Slash	名詞	ゲーム用語
+どらくえ	Dragon Quest	名詞	ゲーム用語
+ふぁんたじー	Fantasy	名詞	ゲーム用語
+あーるぴーじー	RPG	名詞	ゲーム用語
+えむえむおー	MMO	名詞	ゲーム用語
+えむえむおーあーるぴーじー	MMORPG	名詞	ゲーム用語
+えふぴーえす	FPS	名詞	ゲーム用語
+てぃーぴーえす	TPS	名詞	ゲーム用語
+あくしょん	Action	名詞	ゲーム用語
+しゅーてぃんぐ	Shooting	名詞	ゲーム用語
+あどべんちゃー	Adventure	名詞	ゲーム用語
+しみゅれーしょん	Simulation	名詞	ゲーム用語
+すとらてじー	Strategy	名詞	ゲーム用語
+ぱずる	Puzzle	名詞	ゲーム用語
+ろーぐらいく	Roguelike	名詞	ゲーム用語
+めとろいどゔぁにあ	Metroidvania	名詞	ゲーム用語
+そうるらいく	Soulslike	名詞	ゲーム用語
+おーぷんわーるど	Open World	名詞	ゲーム用語
+さんどぼっくす	Sandbox	名詞	ゲーム用語
+さばいばる	Survival	名詞	ゲーム用語
+くらふと	Crafting	名詞	ゲーム用語
+まるちぷれいやー	Multiplayer	名詞	ゲーム用語
+しんぐるぷれいやー	Singleplayer	名詞	ゲーム用語
+ここーぷ	Co-op	名詞	ゲーム用語
+ぴーぶいぴー	PvP	名詞	ゲーム用語
+ぴーぶいいー	PvE	名詞	ゲーム用語
+ぎるどばとる	Guild Battle	名詞	ゲーム用語
+ありーな	Arena	名詞	ゲーム用語
+らだー	Ladder	名詞	ゲーム用語
+らんく	Rank	名詞	ゲーム用語
+れーてぃんぐ	Rating	名詞	ゲーム用語
+まっちめいきんぐ	Matchmaking	名詞	ゲーム用語
+ちーと	Cheat	名詞	ゲーム用語
+ばぐ	Bug	名詞	ゲーム用語
+ぐりっち	Glitch	名詞	ゲーム用語
+あぷで	Update	名詞	ゲーム用語
+ぱっち	Patch	名詞	ゲーム用語
+めんて	Maintenance	名詞	ゲーム用語
+いべんと	Event	名詞	ゲーム用語
+こらぼ	Collaboration	名詞	ゲーム用語
+しーずんぱす	Season Pass	名詞	ゲーム用語
+ばとるぱす	Battle Pass	名詞	ゲーム用語
+まいくろとらんざくしょん	Microtransaction	名詞	ゲーム用語
+かきん	In-game Purchase	名詞	ゲーム用語
+むかきん	Free-to-play	名詞	ゲーム用語
+はいかきん	Whale	名詞	ゲーム用語
+りせまら	Reroll	名詞	ゲーム用語
+えんどこんてんつ	Endgame Content	名詞	ゲーム用語
+やりこみ	Completionist	名詞	ゲーム用語
+とろふぃー	Trophy	名詞	ゲーム用語
+あちーぶめんと	Achievement	名詞	ゲーム用語
+すぴーどらん	Speedrun	名詞	ゲーム用語
+あーるてぃーえー	RTA	名詞	ゲーム用語
+ぜんくり	Completion	名詞	ゲーム用語
+げーむおーばー	Game Over	名詞	ゲーム用語
+げーむくりあ	Game Clear	名詞	ゲーム用語
+にゅーげーむ	New Game	名詞	ゲーム用語
+つづきから	Continue	名詞	ゲーム用語
+せーぶぽいんと	Save Point	名詞	ゲーム用語
+ちぇっくぽいんと	Check Point	名詞	ゲーム用語
+ふぁすととらべる	Fast Travel	名詞	ゲーム用語
+わーぷ	Warp	名詞	ゲーム用語
+まうんと	Mount	名詞	ゲーム用語
+ぺっと	Pet	名詞	ゲーム用語
+あバター	Avatar	名詞	ゲーム用語
+すきん	Skin	名詞	ゲーム用語
+えもーと	Emote	名詞	ゲーム用語
+ちゃっと	Chat	名詞	ゲーム用語
+ぼいちゃ	Voice Chat	名詞	ゲーム用語
+ふるぼいす	Full Voice	名詞	ゲーム用語
+かっとしーん	Cutscene	名詞	ゲーム用語
+むーびー	Movie	名詞	ゲーム用語
+えんでぃんぐ	Ending	名詞	ゲーム用語
+まるちえんでぃんぐ	Multi-ending	名詞	ゲーム用語
+ばっどえんど	Bad End	名詞	ゲーム用語
+とぅるーえんど	True End	名詞	ゲーム用語
+はっぴーえんど	Happy End	名詞	ゲーム用語
+めりば	Merry Bad End	名詞	ゲーム用語
+ふらぐ	Flag	名詞	ゲーム用語
+ふらぐ回収	Flag Recovery	名詞	ゲーム用語
+いーじー	Easy	名詞	ゲーム用語
+のーまる	Normal	名詞	ゲーム用語
+はーど	Hard	名詞	ゲーム用語
+べりはー	Very Hard	名詞	ゲーム用語
+るなてぃっく	Lunatic	名詞	ゲーム用語
+いんふぇるの	Inferno	名詞	ゲーム用語
+ないとめあ	Nightmare	名詞	ゲーム用語
+かすたむ	Custom	名詞	ゲーム用語
+ちゅーにんぐ	Tuning	名詞	ゲーム用語
+もっど	Mod	名詞	ゲーム用語
+えでぃたー	Editor	名詞	ゲーム用語
+わーくしょっぷ	Workshop	名詞	ゲーム用語
+あどおん	Add-on	名詞	ゲーム用語
+でぃーえるしー	DLC	名詞	ゲーム用語
+えくすぱんしょん	Expansion	名詞	ゲーム用語
+すぴんおふ	Spin-off	名詞	ゲーム用語
+りめいく	Remake	名詞	ゲーム用語
+りますたー	Remaster	名詞	ゲーム用語
+ぽーと	Port	名詞	ゲーム用語
+べーたてすと	Beta Test	名詞	ゲーム用語
+あるふぁてすと	Alpha Test	名詞	ゲーム用語
+あーりーあくせす	Early Access	名詞	ゲーム用語
+ろーち	Launch	名詞	ゲーム用語
+ぷりおーだー	Pre-order	名詞	ゲーム用語
+とれーらー	Trailer	名詞	ゲーム用語
+てぃーざー	Teaser	名詞	ゲーム用語
+きーびじゅある	Key Visual	名詞	ゲーム用語
+こんせぷとあーと	Concept Art	名詞	ゲーム用語
+さうんどとらっく	Soundtrack	名詞	ゲーム用語
+さーばー	Server	名詞	ゲーム用語
+りーじょん	Region	名詞	ゲーム用語
+ぴんぐ	Ping	名詞	ゲーム用語
+ぱけり	Packet Loss	名詞	ゲーム用語
+らぐ	Lag	名詞	ゲーム用語
+ふれーむれーと	Frame Rate	名詞	ゲーム用語
+えふぴーえす	FPS	名詞	ゲーム用語
+りぞりゅーしょん	Resolution	名詞	ゲーム用語
+がしつ	Image Quality	名詞	ゲーム用語
+てくすちゃ	Texture	名詞	ゲーム用語
+ぽりごん	Polygon	名詞	ゲーム用語
+れんだりんぐ	Rendering	名詞	ゲーム用語
+れーとれーしんぐ	Ray Tracing	名詞	ゲーム用語
+あんちえりあす	Anti-aliasing	名詞	ゲーム用語
+ぶるーむ	Bloom	名詞	ゲーム用語
+ぱーてぃくる	Particle	名詞	ゲーム用語
+ぶいしんく	V-Sync	名詞	ゲーム用語
+ろーでぃんぐ	Loading	名詞	ゲーム用語
+いんすとーる	Install	名詞	ゲーム用語
+あんいんすとーる	Uninstall	名詞	ゲーム用語
+くらっしゅ	Crash	名詞	ゲーム用語
+ふりーず	Freeze	名詞	ゲーム用語
+めもりりーく	Memory Leak	名詞	ゲーム用語
+おーばーひーと	Overheat	名詞	ゲーム用語
+こんとろーらー	Controller	名詞	ゲーム用語
+じょいすてぃっく	Joystick	名詞	ゲーム用語
+げーむぱっど	Gamepad	名詞	ゲーム用語
+きーぼーど	Keyboard	名詞	ゲーム用語
+まうす	Mouse	名詞	ゲーム用語
+もんごる	Mongol Style	名詞	ゲーム用語
+あーけーどすてぃっく	Arcade Stick	名詞	ゲーム用語
+はんこん	Steering Wheel	名詞	ゲーム用語
+VRごーぐる	VR Goggles	名詞	ゲーム用語
+へっどせっと	Headset	名詞	ゲーム用語
+じゃいろ	Gyro	名詞	ゲーム用語
+しんどう	Vibration	名詞	ゲーム用語
+ふぃーどばっく	Feedback	名詞	ゲーム用語
+とりがー	Trigger	名詞	ゲーム用語
+ぼたん	Button	名詞	ゲーム用語
+あならぐ	Analog	名詞	ゲーム用語
+でじたる	Digital	名詞	ゲーム用語
+わいやれす	Wireless	名詞	ゲーム用語
+ぶるーとぅーす	Bluetooth	名詞	ゲーム用語
+ばってりー	Battery	名詞	ゲーム用語
+ちゃーじ	Charge	名詞	ゲーム用語
